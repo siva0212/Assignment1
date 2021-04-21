@@ -1,3 +1,0 @@
-
-
-SELECT ID, Name from CUSTOMER ORDER BY Name DESC, ID ASC
